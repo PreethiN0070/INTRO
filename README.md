@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+<html>
+  <head>
 
-You can use the [editor on GitHub](https://github.com/PreethiN0070/INTRO/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+    <title>Introduction</title>
+  </head>
+  <body>
+    <h1>About myself</h1>
+    <img src="preethi.jpeg" alt="PREETHI N" width=20% height=30% align=left >
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <div class="basic">
+      <h2>Name:PREETHI N</h2>
+        <h2>Date of Birth:19-01-2003</h2>
+      <h2>Branch:CSE</h2>
+      <h2>Semester:3rd Semester</h2>
+    <h2>college:VVCE</h2>
+      </div>
+      <p><h2>My Journey from childhood</h2>
+Basically, I completed my secondary school education in <b>Lalitha high school</b> Vontikoppal,Mysuru. I pursued by pre university education in <b>Sadvidya composite PU college</b>,NS road Mysuru as PCMB student . currently I am studying bachelor's degrre of engineering in <b>Vidya vardhaka college of engineering</b>,Mysuru
+      </p>
+      <h2>My Interests and hobbies:</h2>
+      <ol>
+        <li><h3>Drawing</h3>  </li>
+        <li>  <h3>Learning emerging technologies </h3>  </li>
+          <li>  <h3>Keen to learn new innovative things </h3>  </li>
 
-### Markdown
+      <li><h3>Web  application development</h3></li>
+      <li><h3>Mobile app development etc..</h3></li>
+      </ol>
+    <h2><i>THANK YOU</i></h2>
+  </body>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PreethiN0070/INTRO/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
